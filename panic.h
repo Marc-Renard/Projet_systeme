@@ -1,5 +1,4 @@
-/*code provided by our teacher, W. Zielonka */
-
+/***************** panic.h ********************/
 #ifndef PANIC_H
 #define PANIC_H
 #include <stdio.h>
